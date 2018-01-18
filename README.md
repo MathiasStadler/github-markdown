@@ -1,4 +1,5 @@
 # github-markdown
+
 github markdown links and  useful thoughts
 
 - markdown sources
@@ -11,3 +12,5 @@ github markdown links and  useful thoughts
 - vscode plugin
   - [vscode plugin  Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
   - [vscode plugin Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  - [vscode plugin Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
