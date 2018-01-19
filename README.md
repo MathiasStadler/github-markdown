@@ -16,3 +16,5 @@ github markdown links and  useful thoughts
   - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
     - set indent_size = 2 for github markdown nested list
     
+- GitHub Fuction
+  - [GitHub Teams](https://help.github.com/articles/about-teams/)
