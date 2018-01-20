@@ -26,6 +26,6 @@
 - [GitHub Sanitize](https://github.com/rgrove/sanitize/#readme) is a whitelist-based HTML and CSS sanitizer. Given a list of acceptable elements, attributes, and CSS properties, Sanitize will remove all unacceptable HTML and/or CSS from a string.
 
 - So I'm used SVG graphic for this
-  - ![Alt text](./signals_words/warning.svg)
-  - ![Alt text](./signals_words/danger.svg)
-  - ![Alt text](./signals_words/caution.svg)
+  - ![Alt Warning](./signals_words/warning.svg) Please take Notice
+  - ![Alt Danger](./signals_words/danger.svg) Please take Notice
+  - ![Alt Caution](./signals_words/caution.svg) Please take Notice
